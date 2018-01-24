@@ -1,20 +1,20 @@
-### Why you should try React Native
+### Serverless Architecture with AWS Lambda
 
 <span class="subtitle">for your next mobile project.</span>
 
 ---
 
-## Gwen Faraday
+## The Technology?
 
-- Developer at Fusion Alliance
-- freeCodeCamp Indy
-<li><a href="https://github.com/gwenf">github.com/gwenf</a></li>
-<li><a href="https://twitter.com/gwen_faraday">@gwen_faraday</a></li>
-<li>gwenfaraday@gmail.com</li>
+- Lambda |
+- API Gateway |
+- Dynamo |
+- Serverless Framework |
+- A Client/Front-end |
 
 ---
 
-## What is React Native?
+## How it works?
 
 - Mobile Apps in JavaScript |
 - Cross-platform |
