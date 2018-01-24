@@ -1,6 +1,6 @@
-### Serverless Architecture with AWS Lambda
+### Serverless Architecture
 
-<span class="subtitle">for your next mobile project.</span>
+<span class="subtitle">with AWS Lambda</span>
 
 ---
 
